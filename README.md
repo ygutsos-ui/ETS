@@ -23,7 +23,7 @@ PARA evitar el almacenamiento de datos redundantes de empleados internos.
 
 ---
 
-###Justificación Obligatoria en Denegación de Excedencias
+Justificación Obligatoria en Denegación de Excedencias
 **Enunciado:** como analista solicito que sea obligatorio introducir una justificación por parte del responsable administrativo al denegar una solicitud de excedencia para garantizar la transparencia y claridad en las resoluciones de trámites de RRHH.
 
 **Criterios de Aceptación:**
